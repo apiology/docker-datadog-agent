@@ -1,0 +1,15 @@
+{
+    "_output_dir": "/Users/broz/src",
+    "_repo_dir": "/Users/broz/.cookiecutters/cookiecutter-docker-image",
+    "_template": "https://github.com/apiology/cookiecutter-docker-image",
+    "email": "vince@broz.cc",
+    "full_docker_image_name": "apiology/docker-datadog-agent",
+    "full_name": "Vince Broz",
+    "github_username": "apiology",
+    "open_source_license": "MIT license",
+    "project_name": "Docker image for Datadog agent",
+    "project_short_description": "Customized Docker image for Datadog agent",
+    "project_slug": "docker-datadog-agent",
+    "type_of_github_repo": "public",
+    "version": "0.1.0"
+}
