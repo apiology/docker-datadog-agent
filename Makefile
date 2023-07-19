@@ -16,10 +16,10 @@ help:
 	@python -c "$$PRINT_HELP_PYSCRIPT" < $(MAKEFILE_LIST)
 
 build: ## build docker image
-	docker build --pull --progress plain -t apiology/docker-datadog-agent:latest .
+	docker build --pull --progress plain -t apiology/datadog-agent:latest .
 
 publish: build ## publish docker image
-	docker push apiology/docker-datadog-agent:latest
+	docker push apiology/datadog-agent:latest
 
 typecheck: ## validate types in code and configuration
 
