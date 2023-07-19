@@ -7,11 +7,11 @@ WARNING: This is not ready for use yet!
 Customized Docker image for Datadog agent
 
 ```sh
-docker pull apiology/docker-datadog-agent:latest
+docker pull apiology/datadog-agent:latest
 ```
 
 To build locally, run `make`.  You can see images at
-[Docker Hub](https://hub.docker.com/repository/docker/apiology/docker-datadog-agent)
+[Docker Hub](https://hub.docker.com/repository/docker/apiology/datadog-agent)
 
 ## Contributions
 
