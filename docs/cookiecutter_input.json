@@ -6,7 +6,7 @@
     "full_docker_image_name": "apiology/datadog-agent",
     "full_name": "Vince Broz",
     "github_username": "apiology",
-    "open_source_license": "MIT license",
+    "open_source_license": "Apache Software License 2.0",
     "project_name": "Docker image for Datadog agent",
     "project_short_description": "Customized Docker image for Datadog agent",
     "project_slug": "docker-datadog-agent",
